@@ -1,4 +1,5 @@
-package com.testing.naveed.maven.java;
+//package com.testing.naveed.maven.java;
+import com.testing.naveed.maven.java.*;
 import java.util.Scanner;  // Import the Scanner class
 public class Application {
 
