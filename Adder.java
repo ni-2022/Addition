@@ -1,5 +1,6 @@
-package com.testing.naveed.maven.java;
+//package com.testing.naveed.maven.java;
 
+package Cal_Ftns
 
 public class Adder {
 
