@@ -1,5 +1,5 @@
 //package com.testing.naveed.maven.java;
-import Cal_fts.Adder;
+import Cal_Ftns.Adder;
 import java.util.Scanner;  // Import the Scanner class
 public class Application {
 
